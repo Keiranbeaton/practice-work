@@ -6,6 +6,8 @@
 + good practice to copy `.eslintrc` and `.eslintignore`  into ~/ - this allows eslint to find them if they're not in the project
 
 #### Testing Lint  
+
+
 TA's and graders will be testing lint in your homework from now on. If you don't pass lint, you'll receive points and be asked to fix lint errors and resubmit.  
 
 You can run the lint test yourself by first installing npm's eslint package.
